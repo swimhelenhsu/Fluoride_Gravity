@@ -3,9 +3,9 @@
 #### April 12, 2019
 This publication Fluoride, Spring 2019 was developed under Assistance Agreement No. SU-83695001 awarded by the U.S. Environmental Protection Agency to Cornell University. It has not been formally reviewed by EPA. The views expressed in this document are solely those of Sarah Huang, Cindy Jin, and Simar Kohli and do not necessarily reflect those of the Agency. EPA does not endorse any products or commercial services mentioned in this publication.
 
-**[Sidney: Hey team! I will be using bolded square brackets to comment on your manual.]**
+**[Helen: Hey team! I will also be using bolded square brackets to comment on your manual.]**
 
-**[Overall: Very minor grammar issues and some improvements to be made with your code but you're doing good!]**
+**[Overall: Very strong report, take into account Tigrans suggestions but otherwise great job!]**
 
 ## Abstract
 Fluoride contamination of water is a significant issue faced by nations and people across the globe, and can, lead to adverse consequences on health (e.g. muscle weakness and atrophy, weakness, fatigue). The Fluoride Gravity team’s objective is to develop a cost-effective, self-sufficient mechanism for extracting excess fluoride from drinking water. The Spring 2019 team hopes to further the gravity-powered system’s efficacy and potentially begin to run field-tests with the device. The application of such a device in real-world scenarios will be predicated upon success seen with the aforementioned field tests.
@@ -83,7 +83,7 @@ In Fall of 2018, two teams were made from the original Fluoride team: [Fluoride 
 
 Finally, the Fall 2018 team prioritized developing a mechanism or process for measuring coagulant flow rate within the system. An IV drip was installed within the filtration system along with microtubing. While headloss still occurred, the team adjusted the height of the coagulant constant head tank to modify flow rate. The drip chamber was noted to substantially streamline the process of measuring flow rate [(Pang et al., 2018)](https://github.com/AguaClara/Fluoride_Gravity/blob/master/Fall%202018/Fluoride_Grav_Fall2018_Report.md#previous-work).
 
-The goal of the Spring 2019 Fluoride team was to modify any necessary parts to the filtration system developed over the past few years by previous Fluoride teams, begin to run comprehensive tests on red-dye within the system, and finally proceed to testing fluoride solutions within the filtration system itself. **[Remember to use past tense when talking about any work you are doing this semester.]**
+The goal of the Spring 2019 Fluoride team was to modify any necessary parts to the filtration system developed over the past few years by previous Fluoride teams, begin to run comprehensive tests on red-dye within the system, and finally proceed to testing fluoride solutions within the filtration system itself.  
 
 ## Methods
 ### Experimental Apparatus
@@ -279,11 +279,11 @@ On the other hand, with the solution collected from the flocculator, it was obse
 
 <img src="jar 310.gif">
 
-**Figure 17:** The mechanics of the red dye are shown. The beaker on the left contains the solution acquired after flocculation and the beaker on the right contains the solution created through rapid stirring.
+**Figure 17:** The mechanics of the red dye are shown. The beaker on the left contains the solution acquired after flocculation and the beaker on the right contains the solution created through rapid stirring. **[Please make sure that past tense is used for any finished experiements or results for experiements that were finished. In this case, the report is talking about the beaker and the image that was taken in the past, it should be in past tense]**
 
 When both solutions were stirred once more with a magnetic stir bar, both solutions behaved in the same way. The majority of particles then settled, with a few floating to the top.
 
-This seems to suggest that the flocculation process causes the water to act in a different manner than in normal mixing. It was hypothesized that a difference in pH may prevent mixing and the proper settling of flocs. However, when using pH strips that range between 1 and 14, the pH of both solutions were found to be approximately 8 (Figures 18 and 19).
+This seems to suggest that the flocculation process causes the water to act in a different manner than in normal mixing. It was hypothesized that a difference in pH may prevent mixing and the proper settling of flocs. However, when using pH strips that range between 1 and 14, the pH of both solutions were found to be approximately 8 (Figures 18 and 19). **[Please keep in mind tenses, refer to above comment]**
 
 <img src = "pH Flocculator.jpg" height = "350" width = "300">
 
@@ -293,7 +293,7 @@ This seems to suggest that the flocculation process causes the water to act in a
 
 **Figure 19:** The pH of the independently mixed solution was also estimated to be 8 using a pH strip.
 
-Both the independently mixed solution and solution collected from the flocculator had the same pH value, which rules out the difference in pH potentially altering the mechanics of red dye, but the Fluoride Gravity team will verify this result using more sensitive pH strips or a pH meter.
+Both the independently mixed solution and solution collected from the flocculator had the same pH value, which rules out the difference in pH potentially altering the mechanics of red dye, but the Fluoride Gravity team will verify this result using more sensitive pH strips or a pH meter. **[Tenses]**
 
 When the apparatus was tested again with newly created red dye solution, the problem of small red dye flocs floating to the surface of the water in the sedimentation tube did not reoccur. However, more investigations should be done on this phenomenon to fully understand the mechanisms of binding and to prevent future problems from occurring.
 
